@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Mosfikur Rahman - Web Developer" width="100%">
+  <img src="./banner.jpg" alt="Mosfikur Rahman - Web Developer" width="100%">
 </p>
 
 ---
