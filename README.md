@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" alt="Mosfikur Rahman - Web Developer" width="100%">
+</p>
+
+---
+
 Hi, I'm Mosfikur Rahman 👋
 
 💻 Computer Science & Technology Student | Aspiring Software Engineer
